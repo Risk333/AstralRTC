@@ -1,2 +1,2 @@
-# AstralRTC
-AstralRTC is a low latency remote desktop application
+# AstralRTC - https://astralrtc.com
+AstralRTC is a low-latency remote desktop application
